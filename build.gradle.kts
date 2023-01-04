@@ -39,5 +39,5 @@ dependencies {
 
     implementation("io.insert-koin:koin-ktor:$koinVersion")
     implementation("io.insert-koin:koin-logger-slf4j:$koinVersion")
-    implementation("io.appwrite:sdk-for-android:1.2.0")
+
 }
